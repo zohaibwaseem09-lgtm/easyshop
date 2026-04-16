@@ -1,0 +1,10 @@
+When you want to make an update, here is your exact workflow:
+cd C:\Users\user\Desktop\Workstation\easyshop
+
+Edit: You change the code in your App.jsx file on your laptop and hit Save.
+
+Stage: You open your terminal and type git add .
+
+Snapshot: You type git commit -m "Changed the button color to red"
+
+Launch: You type git push
